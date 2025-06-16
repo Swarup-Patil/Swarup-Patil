@@ -67,11 +67,10 @@ I'm a full-stack developer with a strong foundation in software engineering, clo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swaruppatil619&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swaruppatil619&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swarup-Patil&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaruppatil619&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarup-Patil&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
