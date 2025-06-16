@@ -1,88 +1,85 @@
+
 # 👋 Hello, I'm Swarup Patil
 
-I'm a full-stack developer with a strong foundation in software engineering, cloud platforms, and system design. I recently completed my B.E. in Information Technology from the University of Mumbai and have hands-on experience working with cutting-edge tools in web development, DevOps, and scalable backend systems.
+I'm a full-stack web developer with a solid foundation in software engineering and a passion for building performant, scalable applications. With hands-on experience in developing full-stack solutions using the MERN stack and a background in backend and frontend development, I enjoy crafting intuitive UIs, writing clean APIs, and solving meaningful technical problems.
+
+Previously at Jio Platforms, I worked on automating internal workflows and building modular web-based tools that improved operational efficiency. I’ve also led college-level projects, including a student portal and an AR-enabled travel log app, that gained wide adoption and user engagement.
+
+I’m currently focused on deepening my skills in full-stack and backend engineering while actively exploring system architecture, clean API design, and real-world deployment practices.
+
+
+- 🎓 Graduated in Information Technology from **University of Mumbai (SIES GST)**
+- 💻 Passionate about **full-stack development**, **backend engineering**, and **clean system design**
+- 🛠️ Skilled in building RESTful APIs, implementing CI/CD pipelines, and working with modern JavaScript frameworks
+- 🚀 Eager to contribute to impactful open-source projects and collaborative product teams
 
 ---
 
-## 👨‍💻 About Me
+## 🧰 Tech Stack
 
-- 💼 **Assistant Manager @ Jio Platforms Ltd.**  
-  Developed enterprise-grade automation portals, integrated monitoring systems, and collaborated on internal tool development to streamline workflows.
-
-- 🚀 Passionate about:  
-  Full-stack development · DevOps · Cloud-native apps · Real-time systems · Automation
-
-- 🛠️ Tech Stack:  
-  React · Node.js · Express.js · MongoDB · Docker · Kubernetes · Azure DevOps · Git · Prometheus · Grafana
-
-- 📫 Reach me at: **swarupaa619yes@gmail.com**
+```yaml
+Languages:        JavaScript, C++, Java, Python
+Frontend:         React.js, Next.js, Bootstrap, HTML5, CSS3
+Backend:          Node.js, Express.js, Flask, Django, EJS
+Databases:        MongoDB, PostgreSQL, MySQL, Oracle
+DevOps & Tools:   Docker, Kubernetes, Git, Jenkins, PM2, GitHub Actions
+Methodologies:    Agile, CI/CD, REST APIs, JWT, Microservices
+```
 
 ---
 
-## 💼 Work Experience
+## 🚀 Highlight Projects
 
-### 🏢 Jio Platforms Limited – Assistant Manager  
-📍 Mumbai, India | 🗓️ Oct 2023 – Oct 2024  
-- Built and deployed a full-stack **automation portal** using the **MERN stack**, **Docker**, and **Kubernetes**, reducing operational inefficiencies by **40%**.
-- Led the development of internal modules (Knowledge Base, URL Tracker, Traffic Monitoring), improving issue resolution by **30%**.
-- Implemented **CI/CD pipelines** via **Azure DevOps**, containerized services, and monitored uptime using **Prometheus** and **Grafana**.
-- Collaborated in Agile sprints, conducted code reviews, and contributed to maintainable, testable modules.
-
----
-
-## 🧠 Academic Projects
-
-### 🎓 College Student Portal – MERN Stack  
-- Centralized portal for events, blogs, and note-sharing; increased participation by **17%**, engagement by **34%**.
-- Integrated RSVP and calendar systems; promoted via SEO and marketing to reach **15K+ hits** and **2.5K+ users**.
-
-### 🌍 Travel Log Web App – Node.js, Express, MongoDB, AR.js  
-- Location-aware journaling with **AR.js** and custom authentication.
-- Delivered using Agile methodology for cross-platform interactivity.
-
-### 💡 Bugsquash Hackathon Platform – EJS, Express.js, MongoDB  
-- Built a complete **hackathon management system** supporting user registration, team formation, and live project submission.
-- Handled **300+ concurrent users**, enabling 100% on-time project submissions and reducing organizer overhead by **50%**.
+### 📌 [College Student Portal](https://www.portal.siesgst.ac.in)
+> MERN stack portal built to foster student community engagement  
+- 15K+ hits and 2.5K+ active users  
+- Blogs, event RSVPs, announcements, and note sharing  
+- Deployed using PM2 and Git versioning, developed in Agile sprints
 
 ---
 
-## 🏆 Accomplishments
-
-- 🥇 **Winner of Bugsquash’21**, a college hackathon at SIES GST.
+### 📌 Travel Log Web App with AR
+> Interactive journaling platform with AR-based location tagging  
+- AR.js integration for immersive experiences  
+- Secure routing, geo-tagged entries, and mobile responsiveness  
+- Node.js backend and EJS frontend in a modular setup
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages:** C · C++ · JavaScript · Python · Java  
-**Frontend:** React.js · Next.js · Bootstrap · HTML5/CSS3  
-**Backend:** Node.js · Express.js · Django · Flask  
-**Cloud & DevOps:** Docker · Kubernetes · AWS · Azure · Jenkins · Heroku · Digital Ocean · Netlify  
-**Databases:** MongoDB · MySQL · PostgreSQL · Oracle · SQL Server  
-**Tools:** Git · GitHub · VS Code · Figma · Jenkins · Postman  
-**Practices:** Agile · CI/CD · RESTful APIs · Containerization
+### 📌 Bugsquash Hackathon Platform
+> Full-stack website for hackathon management  
+- Enabled team creation, problem browsing, and timed submissions  
+- Built with EJS, Express, MongoDB, and JavaScript  
+- Supported 300+ active sessions with 100% on-time project collection
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swarup-Patil&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarup-Patil&layout=compact&theme=radical" alt="Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swarup-Patil&theme=radical" alt="GitHub Streak" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarup-Patil&layout=compact&theme=radical" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </p>
 
----
-
-## 🎓 Education
-
-- 🎓 **SIES Graduate School of Technology, University of Mumbai**  
-  B.E. in Information Technology — *May 2023*
+## 🏆 Achievements
+- 🥇 Winner – **Bugsquash'21** Hackathon (SIESGST)
+- 💡 Built and deployed multiple apps using modern full-stack tools and backend-first architecture
 
 ---
 
-## 🔗 Let’s Connect
+## 📫 Let's Connect
+- 📩 swarupaa619yes@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/swarup-santosh-patil/)  
+- 💻 [GitHub](https://github.com/Swarup-Patil)
 
-- [🔗 LinkedIn](https://www.linkedin.com/in/swarup-santosh-patil)
-- 📧 **swarupaa619yes@gmail.com**
+---
+
+> “You can never understand everything. But, you should push yourself to understand the system.” — *Ryan Dahl (Creator of Node.js)*
