@@ -10,7 +10,7 @@ I’m currently focused on deepening my skills in full-stack and backend enginee
 
 - 🎓 Graduated in Information Technology from **University of Mumbai (SIES GST)**
 - 💻 Passionate about **full-stack development**, **backend engineering**, and **clean system design**
-- 🛠️ Skilled in building RESTful APIs, implementing CI/CD pipelines, and working with modern JavaScript frameworks
+- 🛠️ Skilled in building RESTful APIs and working with modern JavaScript frameworks
 - 🚀 Eager to contribute to impactful open-source projects and collaborative product teams
 
 ---
